@@ -14,9 +14,32 @@
   "navigation": {
     "pages": [
       {
-        "group": "Overview",
+        "group": "Übersicht",
         "pages": [
-          "index"
+          "index",
+          "getting-started"
+        ]
+      },
+      {
+        "group": "Serververwaltung",
+        "pages": [
+          {
+            "group": "Kernmodule",
+            "pages": [
+              "modules",
+              "modules/security",
+              "modules/moderation",
+              "modules/community"
+            ]
+          },
+          {
+            "group": "Builder",
+            "pages": [
+              "builders/embed-builder",
+              "builders/components-v2"
+            ]
+          },
+          "dashboard"
         ]
       },
       {
