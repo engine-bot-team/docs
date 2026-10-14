@@ -44,9 +44,7 @@
       },
       {
         "group": "Changelogs",
-        "pages": [
-          "changelogs/v1-0-0"
-        ]
+        "pages": []
       }
     ]
   },
